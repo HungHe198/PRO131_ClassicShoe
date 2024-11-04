@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicShoe.DATA", "ClassicShoe.DATA\ClassicShoe.DATA.csproj", "{F20AAAB1-9002-428B-82BE-140ECA9C4BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicShoe.APP", "ClassicShoe.APP\ClassicShoe.APP.csproj", "{5A63F02E-7C72-4CDE-941A-40E7A87057C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20AAAB1-9002-428B-82BE-140ECA9C4BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20AAAB1-9002-428B-82BE-140ECA9C4BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20AAAB1-9002-428B-82BE-140ECA9C4BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20AAAB1-9002-428B-82BE-140ECA9C4BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A63F02E-7C72-4CDE-941A-40E7A87057C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A63F02E-7C72-4CDE-941A-40E7A87057C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A63F02E-7C72-4CDE-941A-40E7A87057C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A63F02E-7C72-4CDE-941A-40E7A87057C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61667BA9-3458-44F9-8CD0-D92E093A3EC0}
+	EndGlobalSection
+EndGlobal
