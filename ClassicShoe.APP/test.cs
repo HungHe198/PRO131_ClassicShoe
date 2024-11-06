@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassicShoe.APP.VIEWS
+namespace ClassicShoe.APP
 {
-    internal class Class1
+    internal class test
     {
-        public int MyProperty { get; set; }
-       
     }
 }
